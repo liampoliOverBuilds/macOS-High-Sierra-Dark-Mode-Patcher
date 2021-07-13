@@ -2,9 +2,13 @@
 With this application you can enable dark mode (avaiable form macOS 10.14 Mojave) in macOS High Sierra.
 
 Configuration:
+ 
  • After downloading, open "Disable Dark Mode.app.zip" and "Enable Dark Mode.app.zip".
+ 
  • IMPORTANT: Copy both this tools in the Application Folder.
+ 
  • Open "macOS High Sierra Dark Mode Patcher.app.zip".
+ 
  • Copy this application in the Applications folder too.
 
 Enable/Disable Dark Mode
