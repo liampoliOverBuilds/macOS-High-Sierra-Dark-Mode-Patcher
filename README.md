@@ -18,5 +18,6 @@ About This Mac and System Profiler aren't completely supported.
 
 All 3d party apps are still in light mode.
 
-**But you can return to "light" mode right from the application macOS High Sierra Dark Mode Patcher.
-**
+Not all System Preferences prefpanes are supported.
+
+**But you can return to "light" mode right from the application macOS High Sierra Dark Mode Patcher.**
