@@ -13,4 +13,4 @@ With this application you can enable dark mode (avaiable form macOS 10.14 Mojave
 
 **Enable/Disable Dark Mode**
  
- • To enable or disable Dark Mode, run macOS High Sierra Dark Mode Patcher.app, and select the Disable or the Enable button when you see the display dialog. Selecting enable, the "Enable Dark Mode" tool installed befor will be launched very quickly. If you select "Disable" will run the "Enable dark mode" tool. So, when you see the display "Changes Applied", you have to restart you Mac with macOS High Sierra to take effect.
+ • To enable or disable Dark Mode, run macOS High Sierra Dark Mode Patcher.app, and select the Disable or the Enable button when you see the display dialog. Selecting enable, the "Enable Dark Mode" tool installed before will be launched very quickly. If you select "Disable" will run the "Enable dark mode" tool. So, when you see the display "Changes Applied", you have to restart you Mac with macOS High Sierra to take effect.
